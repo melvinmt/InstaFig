@@ -1,0 +1,11 @@
+{
+  "name": "InstaFig",
+  "id": "1085965089913991368",
+  "api": "1.0.0",
+  "main": "code.js",
+  "editorType": [
+    "figma",
+    "figjam"
+  ],
+  "ui": "ui.html"
+}
